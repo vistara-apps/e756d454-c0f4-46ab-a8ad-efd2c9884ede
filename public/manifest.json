@@ -1,0 +1,14 @@
+{
+  "name": "MindMeld AI Tutor",
+  "description": "MindMeld AI Tutor is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://e756d454-c0f4-46ab-a8ad-efd2c9884ede.vercel.app",
+  "properties": {
+    "app": {
+      "name": "MindMeld AI Tutor",
+      "description": "MindMeld AI Tutor is a Base Mini App built with Zara.",
+      "url": "https://e756d454-c0f4-46ab-a8ad-efd2c9884ede.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

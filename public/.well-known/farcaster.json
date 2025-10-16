@@ -8,9 +8,9 @@
     "version": "next",
     "name": "MindMeld AI Tutor",
     "iconUrl": "https://mindmeld.app/icon.png",
-    "homeUrl": "https://mindmeld.app",
+    "homeUrl": "https://app-c9884ede-oyno.vercel.app",
     "splashImageUrl": "https://mindmeld.app/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://mindmeld.app/api/webhook"
+    "webhookUrl": "https://app-c9884ede-oyno.vercel.app/api/webhook"
   }
 }
